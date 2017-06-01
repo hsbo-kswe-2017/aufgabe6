@@ -3,7 +3,7 @@
 In dieser Aufgabe soll entweder die Javascript-Anwendung für Messstationen
 erweitert oder alternativ eine Android-App entwickelt werden.
 
-Die Anwendung soll folgende Funktionalität erweitert werden bzw. bereitstellen:
+Die Anwendung soll um folgende Funktionalität erweitert werden bzw. diese umfassen:
 
 * Abonnieren von Echtzeit-Messdaten mit Hilfe von MQTT
 * Aktualisierung des Zeitreihen-Diagramms bei Empfang neuer Messwerte
@@ -20,7 +20,7 @@ https://kswe2017.daplie.me/docs/
 
 ## Ergebnis
 
-Die Anwendung soll die REST API nutzen, um die Grunddaten der Stationen zu beziehen.
+Die Anwendung soll die REST API nutzen, um die Basisdaten der Stationen zu beziehen.
 Die Echtzeit-Daten sollen dann - via MQTT bezogen - in der Anwendung visualisiert
 werden.
 
